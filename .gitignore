@@ -1,0 +1,92 @@
+# Project exclude paths
+/.gradle/
+/Control Flow/Latihan/Latihan/build/
+/Control Flow/Latihan/Latihan/out/
+/Control Flow/Latihan/Latihan/out/production/classes/
+/Coroutines/latihan/Latihan/build/
+/Coroutines/latihan/Latihan/out/
+/Coroutines/latihan/Latihan/out/production/classes/
+/Data Class dan Collections/Data Class/Comparing data class/out/
+/Data Class dan Collections/Data Class/Comparing data class/out/production/classes/
+/Data Class dan Collections/Data Class/Different data class with class/out/
+/Data Class dan Collections/Data Class/Different data class with class/out/production/classes/
+/Data Class dan Collections/Latihan/latihan/build/
+/Data Class dan Collections/Latihan/latihan/out/
+/Data Class dan Collections/Latihan/latihan/out/production/classes/
+/Functional/Advanced Collection Function/Distinct/out/
+/Functional/Advanced Collection Function/Distinct/out/production/classes/
+/Functional/Advanced Collection Function/Slice/out/
+/Functional/Advanced Collection Function/Slice/out/production/classes/
+/Functional/Advanced Collection Function/Take/out/
+/Functional/Advanced Collection Function/Take/out/production/classes/
+/Functional/Extensions/Contoh 1/out/
+/Functional/Extensions/Contoh 1/out/production/classes/
+/Functional/Function Type/Contoh 1/out/
+/Functional/Function Type/Contoh 1/out/production/classes/
+/Functional/Lambda/Contoh 2/out/
+/Functional/Lambda/Contoh 2/out/production/classes/
+/Functional/Lambda/Contoh 5/out/
+/Functional/Lambda/Contoh 5/out/production/classes/
+/Functional/Latihan/Latihan/build/
+/Functional/Latihan/Latihan/out/
+/Functional/Latihan/Latihan/out/production/classes/
+/Functional/Library Helper/also/out/
+/Functional/Library Helper/also/out/production/classes/
+/Functional/Library Helper/apply/out/
+/Functional/Library Helper/apply/out/production/classes/
+/Functional/Library Helper/let/out/
+/Functional/Library Helper/let/out/production/classes/
+/Functional/Library Helper/run/out/
+/Functional/Library Helper/run/out/production/classes/
+/Functional/Library Helper/with/out/
+/Functional/Library Helper/with/out/production/classes/
+/Functional/Named and Default Argument/Contoh 2/out/
+/Functional/Named and Default Argument/Contoh 2/out/production/classes/
+/Functional/Recursion/Recursion Initilization/out/
+/Functional/Recursion/Recursion Initilization/out/production/classes/
+/Functional/Vararg Argument/Contoh 1/out/
+/Functional/Vararg Argument/Contoh 1/out/production/classes/
+/Functional/Vararg Argument/Contoh 2/out/
+/Functional/Vararg Argument/Contoh 2/out/production/classes/
+/Functional/Vararg Argument/Contoh 3/out/
+/Functional/Vararg Argument/Contoh 3/out/production/classes/
+/Generics/Generics/Contoh 3/out/
+/Generics/Generics/Contoh 3/out/production/classes/
+/Generics/Latihan/Latihan/build/
+/Generics/Latihan/Latihan/out/
+/Generics/Latihan/Latihan/out/production/classes/
+/Generics/Latihan/Latihan/out/test/classes/
+/Generics/Variance/Contoh/out/
+/Generics/Variance/Contoh/out/production/classes/
+/Kotlin Fundamental/Data Type/Char in String/out/
+/Kotlin Fundamental/Data Type/Char in String/out/production/classes/
+/Kotlin Fundamental/Data Type/Escaped String/out/
+/Kotlin Fundamental/Data Type/Escaped String/out/production/classes/
+/Kotlin Fundamental/Data Type/Unicode String/out/
+/Kotlin Fundamental/Data Type/Unicode String/out/production/classes/
+/Kotlin Fundamental/Data Type/Update Array/out/
+/Kotlin Fundamental/Data Type/Update Array/out/production/classes/
+/Kotlin Fundamental/Latihan/Latihan/build/
+/Kotlin Fundamental/Latihan/Latihan/out/
+/Kotlin Fundamental/Latihan/Latihan/out/production/classes/
+/Kotlin Fundamental/Nullable Types/Nullable Types/out/
+/Kotlin Fundamental/Nullable Types/Nullable Types/out/production/classes/
+/Kotlin Fundamental/Numbers/Number Initilization/out/
+/Kotlin Fundamental/Numbers/Number Initilization/out/production/classes/
+/Kotlin Fundamental/Numbers/Number with max and min values/out/
+/Kotlin Fundamental/Numbers/Number with max and min values/out/production/classes/
+/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 1/build/
+/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 2/build/
+/Object-Oriented/Classes/Contoh/out/
+/Object-Oriented/Classes/Contoh/out/production/classes/
+/Object-Oriented/Constructor/Contoh 1/out/
+/Object-Oriented/Constructor/Contoh 1/out/production/classes/
+/Object-Oriented/Latihan/Latihan/build/
+/Object-Oriented/Latihan/Latihan/out/
+/Object-Oriented/Latihan/Latihan/out/production/classes/
+/Object-Oriented/Object Everywhere/Contoh 1/out/
+/Object-Oriented/Object Everywhere/Contoh 1/out/production/classes/
+/Object-Oriented/Object Everywhere/Contoh 2/out/
+/Object-Oriented/Object Everywhere/Contoh 2/out/production/classes/
+/Object-Oriented/Properties/Contoh/out/
+/Object-Oriented/Properties/Contoh/out/production/classes/
