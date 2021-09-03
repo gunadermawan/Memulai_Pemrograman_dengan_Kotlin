@@ -1,4 +1,5 @@
 import kotlin.random.Random
+import kotlin.random.nextInt
 
 // main function
 fun main() {
@@ -11,4 +12,5 @@ fun main() {
     println(registerNumber)
 }
 
-fun getRegisterNumber() = Random.nextInt(100)
+//hasil bisa berubah karena kita menggunakan function random untuk mengacak number
+fun getRegisterNumber() = Random.nextInt(10..1000)

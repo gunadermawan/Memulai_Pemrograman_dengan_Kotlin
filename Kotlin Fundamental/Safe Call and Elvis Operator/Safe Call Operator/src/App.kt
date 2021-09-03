@@ -1,4 +1,5 @@
 fun main() {
     val text: String? = null
-    text?.length
+    val panjang = text?.length
+    print("panjangnya $panjang")
 }

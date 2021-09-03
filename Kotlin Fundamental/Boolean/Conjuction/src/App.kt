@@ -1,10 +1,30 @@
 // main function
 fun main() {
     val officeOpen = 7
-    val officeClosed = 16
-    val now = 20
+    val officeClose = 17
+    var now = 10
+    var isOpen = if (now >= officeOpen && now <= officeClose){
+        true
+    } else {
+        false
+    }
+// conjunction / AND
+    val isOpen2 = now >= officeOpen && now <= officeClose
+    println("kantor buka?")
+    println("$isOpen")
 
-    val isOpen = now >= officeOpen && now <= officeClosed
+    println("kantor kedua buka?")
+    println("$isOpen2")
+// disjunction / OR
+    val isCloses = now < officeOpen || now > officeClose
+    println("apakah kantor tutup?")
+    println("$isCloses")
 
-    print("Office is open : $isOpen")
+//    Negation/Not
+    isOpen = now > officeOpen
+    if (!isOpen){
+        println("kantor tutup")
+    } else{
+        print("kantor buka")
+    }
 }

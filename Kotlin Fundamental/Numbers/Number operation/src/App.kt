@@ -1,13 +1,4 @@
 fun main() {
-    val numberOne = 1
-    val numberTwo = 2
-
-    print(numberOne + numberTwo)
-
-    print(numberOne / numberTwo)
-
-    println(5 + 4 * 4)
-
-    println((5 + 4) * 4)
-
+    val intArray = intArrayOf(1,2,3,4,5)
+    print(intArray.slice(0..4).contains(3))
 }

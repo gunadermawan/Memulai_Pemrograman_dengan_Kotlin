@@ -1,4 +1,5 @@
 fun main() {
     val text: String? = null
-    val textLength = text?.length ?: 7
+    val panjang = text?.length?: 10
+    print("panjangnya adalah $panjang")
 }

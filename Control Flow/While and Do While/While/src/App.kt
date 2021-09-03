@@ -1,9 +1,8 @@
 // main function
 fun main() {
-    var counter = 1
-
-    while (counter <= 7){
-        println("Hello, World!")
+    var counter = 5
+    do {
+        println("hello world!")
         counter++
-    }
+    } while (counter < 10)
 }

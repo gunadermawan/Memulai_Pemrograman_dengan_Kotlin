@@ -28,6 +28,7 @@ fun calculateResult(valueA: Int, valueB: Int, valueC: Int?): Int {
     } else {
         valueC
     }
+//    dalam perhitungan resultB, karena valueC null, maka diganti dengan elvis operator denga nilai default 50
     val result = valueA + (valueB - (valcNotNull?:50))
     return result
 }

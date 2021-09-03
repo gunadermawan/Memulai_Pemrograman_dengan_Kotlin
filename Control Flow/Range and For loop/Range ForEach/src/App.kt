@@ -1,10 +1,9 @@
 // main function
 fun main() {
-    val rangeInt = 1..10 step 2
+    val rangeInt = 'A'..'Z' step 2
 
-    rangeInt.forEach {
-        print("$it ")
+    rangeInt.forEach{
+        println("$it")
     }
-
     println(rangeInt.step)
 }
